@@ -18,7 +18,7 @@ yannou@yannou:~$ neofetch
  📌 Location:
            Montreal, Quebec (Canada)
  🏫 Education:
-           Ahuntsic
+           College Ahuntsic
  🎓 Degree:
            ACS Transactional Web Development
            
