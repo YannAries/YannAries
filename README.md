@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Yannick!</h1>
 <h3 align="center">Tech and Open-source enthusiast.</h3>
-<p align="center">I’m currently working on a <a href="https://github.com/YannAries/web-scraper-d1-arkema" title="web scraper">web scraper</a></p>
+<p align="center">I’m currently working on a <a href="https://github.com/YannAries/web-scraper-d1-arkema" title="web scraper">web scraper</a> and my <a href="https://yannick-portfolio.vercel.app/" title="portfolio">portfolio</a>.</p>
 <br>
 
 ```console
